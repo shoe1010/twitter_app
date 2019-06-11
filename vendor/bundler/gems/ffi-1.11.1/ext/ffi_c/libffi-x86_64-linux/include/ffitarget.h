@@ -1,0 +1,1 @@
+/home/shu/ドキュメント/情報部門/rails/twitter_app/vendor/bundler/gems/ffi-1.11.1/ext/ffi_c/libffi/src/x86/ffitarget.h

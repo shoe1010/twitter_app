@@ -1,0 +1,19 @@
+current directory: /home/shu/ドキュメント/情報部門/rails/twitter_app/vendor/bundler/gems/byebug-11.0.1/ext/byebug
+/home/shu/.rbenv/versions/2.5.3/bin/ruby -r ./siteconf20190611-8029-1kbnsa0.rb extconf.rb
+creating Makefile
+
+current directory: /home/shu/ドキュメント/情報部門/rails/twitter_app/vendor/bundler/gems/byebug-11.0.1/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /home/shu/ドキュメント/情報部門/rails/twitter_app/vendor/bundler/gems/byebug-11.0.1/ext/byebug
+make "DESTDIR="
+compiling breakpoint.c
+compiling byebug.c
+compiling context.c
+compiling locker.c
+compiling threads.c
+linking shared-object byebug/byebug.so
+
+current directory: /home/shu/ドキュメント/情報部門/rails/twitter_app/vendor/bundler/gems/byebug-11.0.1/ext/byebug
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 byebug.so ./.gem.20190611-8029-1p18ohl/byebug

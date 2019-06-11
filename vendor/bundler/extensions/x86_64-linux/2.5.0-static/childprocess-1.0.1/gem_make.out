@@ -1,0 +1,5 @@
+current directory: /home/shu/ドキュメント/情報部門/rails/twitter_app/vendor/bundler/gems/childprocess-1.0.1/ext
+/home/shu/.rbenv/versions/2.5.3/bin/ruby mkrf_conf.rb
+
+current directory: /home/shu/ドキュメント/情報部門/rails/twitter_app/vendor/bundler/gems/childprocess-1.0.1/ext
+/home/shu/.rbenv/versions/2.5.3/bin/ruby -rrubygems /home/shu/ドキュメント/情報部門/rails/twitter_app/vendor/bundler/gems/rake-12.3.2/exe/rake RUBYARCHDIR=/home/shu/ドキュメント/情報部門/rails/twitter_app/vendor/bundler/extensions/x86_64-linux/2.5.0-static/childprocess-1.0.1 RUBYLIBDIR=/home/shu/ドキュメント/情報部門/rails/twitter_app/vendor/bundler/extensions/x86_64-linux/2.5.0-static/childprocess-1.0.1

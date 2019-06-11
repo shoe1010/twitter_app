@@ -1,0 +1,15 @@
+current directory: /home/shu/ドキュメント/情報部門/rails/twitter_app/vendor/bundler/gems/bindex-0.7.0/ext/skiptrace
+/home/shu/.rbenv/versions/2.5.3/bin/ruby -r ./siteconf20190611-8029-1or66pd.rb extconf.rb
+creating Makefile
+
+current directory: /home/shu/ドキュメント/情報部門/rails/twitter_app/vendor/bundler/gems/bindex-0.7.0/ext/skiptrace
+make "DESTDIR=" clean
+
+current directory: /home/shu/ドキュメント/情報部門/rails/twitter_app/vendor/bundler/gems/bindex-0.7.0/ext/skiptrace
+make "DESTDIR="
+compiling cruby.c
+linking shared-object skiptrace/cruby.so
+
+current directory: /home/shu/ドキュメント/情報部門/rails/twitter_app/vendor/bundler/gems/bindex-0.7.0/ext/skiptrace
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.so ./.gem.20190611-8029-1jmeqa/skiptrace
